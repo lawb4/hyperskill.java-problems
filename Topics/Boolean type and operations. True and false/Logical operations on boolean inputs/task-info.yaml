@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read the first boolean value
+              boolean firstValue = scanner.nextBoolean();
+      
+              // Read the second boolean value
+              boolean secondValue = scanner.nextBoolean();
+      
+              // Perform the logical AND operation
+      
+              // Perform the logical OR operation
+      
+              // Perform the logical NOT operation on the first value
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45705#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 14:54:36 UTC"
+record: -1
+submission_language: java17

@@ -1,0 +1,27 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              int num1 = scanner.nextInt(); // Read first integer
+              int num2 = scanner.nextInt(); // Read second integer
+      
+              // Perform the operations as per the problem statement and store the result in a variable
+      
+              System.out.println(); // Print the result
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43836#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 11:55:08 UTC"
+record: -1
+submission_language: java17

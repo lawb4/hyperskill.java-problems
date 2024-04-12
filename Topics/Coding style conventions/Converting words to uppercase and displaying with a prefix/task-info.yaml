@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "// import necessary libraries\nimport java.util.*;\n\npublic class Main {\n\
+    \    // Define a method that takes an input word and prints out the formatted\
+    \ output\n    public static void printFormattedMessage(String input) {\n     \
+    \   // Transform the input to upper case\n\n        // Print the desired output\n\
+    \    }\n\n    public static void main(String[] args) {\n        Scanner sc = new\
+    \ Scanner(System.in);\n\n        // Read the input word from the user\n\n    \
+    \    // Call the function to print formatted message        \n    }\n}'"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44753#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 10:57:16 UTC"
+record: -1
+submission_language: java17

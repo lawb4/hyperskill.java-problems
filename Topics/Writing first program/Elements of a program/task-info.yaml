@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <b>HelloWorldProgram</b> is a name
+  - text: <b>main</b> is a keyword
+  - text: <b>void</b> is a statement
+  - text: <b>class</b> is a keyword
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3757#comment
+status: Solved
+feedback:
+  message: "<html>You've mastered the ABCs of programming! \nThis knowledge enables\
+    \ you to write code that both computers and other programmers understand.\n\n\
+    </html>"
+  time: "Thu, 11 Apr 2024 08:33:20 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+local_check: false

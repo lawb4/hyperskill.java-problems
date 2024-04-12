@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      class Main {
+          public static void main(String[] args) {
+              // put your code here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2506#comment
+status: Solved
+feedback:
+  message: |-
+    <html>By typing out the code yourself, you take a significant step in your coding journey.
+
+    </html>
+  time: "Thu, 11 Apr 2024 08:31:21 UTC"
+record: -1
+submission_language: java17

@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.Scanner;\n\npublic class Main {\n    public static void\
+    \ main(String[] args) {\n        // Create a Scanner object for taking input\n\
+    \        Scanner scanner = new Scanner(System.in);\n\n        // Take integer\
+    \ input from the user\n        int number = scanner.nextInt();\n\n        // Use\
+    \ a simple way to determine if the number is even or odd.\n        // If it's\
+    \ even, print true, otherwise, print false\n\n        // Write your code here\
+    \       \n    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43418#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 14:52:37 UTC"
+record: -1
+submission_language: java17

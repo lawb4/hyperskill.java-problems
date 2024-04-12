@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+      
+              Scanner scanner = new Scanner(System.in);
+              int minutes = scanner.nextInt();
+      
+              // Your code comes here!
+      
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45375#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 12:11:27 UTC"
+record: -1
+submission_language: java17

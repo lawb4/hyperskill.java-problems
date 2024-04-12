@@ -1,0 +1,29 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // TODO: Read two integers from the user
+      
+              // TODO: Multiply the two integers
+      
+              // TODO: Print out the result
+      
+              // TODO: Determine if the result is even or odd
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45723#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 09:38:35 UTC"
+record: -1
+submission_language: java17
