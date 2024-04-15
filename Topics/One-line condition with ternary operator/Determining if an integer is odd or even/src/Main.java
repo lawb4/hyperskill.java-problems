@@ -10,5 +10,19 @@ public class Main {
         // If the number is even, print "even"
         // Otherwise, print "odd"
         System.out.println(number % 2 == 0 ? "even" : "odd");
+        doThis();
+    }
+
+    static void doThis() {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+            if (i < 3) {
+                continue;
+            } else {
+                for (int j = 0; j < 5; j++) {
+                    System.out.println(j);
+                }
+            }
+        }
     }
 }

@@ -1,0 +1,8 @@
+﻿.gradle
+.idea
+gradle
+build.gradle
+course-remote-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
