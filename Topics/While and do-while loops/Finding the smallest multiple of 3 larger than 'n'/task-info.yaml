@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner sc = new Scanner(System.in);
+              // Get the input number
+              int n = sc.nextInt();
+              if (n > 0) {
+                  // Write your code here. Use a while loop starting from n
+                  // and check for the smallest multiple of 3.
+              } else {
+                  System.out.println("-1");
+              }
+              sc.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45342#comment
+status: Unchecked
+record: -1
+submission_language: java17
