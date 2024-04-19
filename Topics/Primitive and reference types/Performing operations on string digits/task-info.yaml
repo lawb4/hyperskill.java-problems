@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Initialize new scanner instance
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read the user input as a string
+              String digitStr = scanner.nextLine();
+      
+              // TODO:
+              // 1. Check if the last character of digitStr is a digit
+              // 2. If it is a digit, check if it is even or odd
+              // 3. Depending on whether it is even or odd, transform the digit to an Integer and perform the necessary operations
+              // 4. Print the result
+      
+              // Don't forget to close the scanner!
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44341#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 19 Apr 2024 05:30:09 UTC"
+record: -1
+submission_language: java17
