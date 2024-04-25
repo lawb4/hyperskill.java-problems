@@ -1,0 +1,25 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.Scanner;\n\npublic class Main {\n    // Creating class\n\
+    \    public static class Book {\n        // private properties\n        private\
+    \ String title;\n        private String author;\n        private int numberOfPages;\n\
+    \n        // getters and setters go here\n        // Remember: \n        // 1.\
+    \ They must not allow empty string for 'title' and 'author'.\n        // 2. They\
+    \ must not allow negative or zero value for 'numberOfPages'.\n        // 3. If\
+    \ such values are attempted to be set, the property should remain unchanged.\n\
+    \    }\n\n    public static void main(String[] args) {\n        Scanner scanner\
+    \ = new Scanner(System.in);\n\n        // Create an object of the Book class\n\
+    \        Book book = new Book();\n\n        // Take Title, Author and numberOfPages\
+    \ as next inputs and set them using the mutator methods\n        // Your code\
+    \ here\n\n        // Then use the accessor methods to get and print these values.\n\
+    \        // Your code here\n\n        scanner.close();\n    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/42050#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 25 Apr 2024 06:25:34 UTC"
+record: -1
+submission_language: java17
