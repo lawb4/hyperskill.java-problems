@@ -1,15 +1,15 @@
+custom_name: Topics
 content:
-  - Writing first program
-  - Types and variables
-  - Comments
-  - Reading user's input with Scanner
-  - Coding style conventions
-  - Naming variables
-  - Arithmetic operations
-  - Integer types and operations
-  - Boolean type and operations. True and false
-  - Comparing values. Relational operators
-  - Introduction to Java
-  - Conditional statement
-  - One-line condition with ternary operator
-  - Break and continue. Branching
+  - While and do-while loops
+  - For-loop
+  - Declaring methods
+  - Method  main
+  - Functional decomposition
+  - Multiple conditions  switch
+  - Overloading
+  - Primitive and reference types
+  - Instance methods
+  - Initializing new instances. Constructor
+  - Getters and setters
+  - Inheritance
+  - Multiple constructors
