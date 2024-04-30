@@ -1,0 +1,28 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: // write your class here
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2942#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:11: error: balance has private access in Account
+            account.balance = scanner.nextLong();
+                   ^
+    Main.java:13: error: ownerName has private access in Account
+            account.ownerName = scanner.next();
+                   ^
+    Main.java:15: error: balance has private access in Account
+            System.out.println(account.balance + " " + account.locked + " " + account.ownerName);
+                                      ^
+    Main.java:15: error: ownerName has private access in Account
+            System.out.println(account.balance + " " + account.locked + " " + account.ownerName);
+                                                                                     ^
+    4 errors
+  time: "Tue, 30 Apr 2024 03:45:30 UTC"
+record: -1
+submission_language: java17

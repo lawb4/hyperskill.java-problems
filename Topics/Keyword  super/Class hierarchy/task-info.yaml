@@ -4,20 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 2
+        length: 23
         placeholder_text: type your solution here
         initial_state:
-          length: 2
+          length: 23
           offset: 0
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Failed
         is_visible: false
     text: type your solution here
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2487#comment
-status: Solved
-feedback:
-  message: <html>Correct solution</html>
-  time: "Thu, 11 Apr 2024 09:45:51 UTC"
+feedback_link: https://hyperskill.org/learn/step/23200#comment
+status: Failed
 record: -1

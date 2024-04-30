@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // TODO: Create two Rectangle objects
+      
+              // TODO: Read the width and height for the first rectangle
+      
+              // TODO: Read the width and height for the second rectangle
+      
+              // TODO: Print the area of each rectangle
+          }
+      }
+      
+      // TODO: Define the Rectangle class with width and height properties
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45711#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Apr 2024 04:13:57 UTC"
+record: -1
+submission_language: java17
