@@ -1,0 +1,12 @@
+content:
+  - Theory
+  - Create an email
+  - Combining strings using a mutable sequence
+  - Reversing a string using a builder
+  - Immutability
+  - Multiple modifications
+  - What is the output
+  - The actual number of characters
+  - Behold the power of StringBuilder
+  - StringBuilder methods
+  - Calculating length

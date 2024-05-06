@@ -1,0 +1,32 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read the input string
+              String inputString = scanner.nextLine();
+      
+              // Create a StringBuilder object
+              StringBuilder sb = new StringBuilder();
+      
+              // Reverse the string using StringBuilder
+      
+      
+              // Print the reversed string
+              System.out.println(sb.toString());
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45777#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 06 May 2024 04:44:03 UTC"
+record: -1
+submission_language: java17
