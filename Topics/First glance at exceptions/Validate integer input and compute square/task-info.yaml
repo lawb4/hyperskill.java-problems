@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read an integer from the user
+              int number = scanner.nextInt();
+      
+              // TODO: Check if the integer is negative, positive, or zero
+              // TODO: If the integer is negative, throw an InvalidInputException with the specified message
+              // TODO: If the integer is positive, print the square of the integer
+              // TODO: If the integer is zero, print "Input is zero."
+      
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47141#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 09 May 2024 10:00:32 UTC"
+record: -1
+submission_language: java17

@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int num1 = scanner.nextInt();
+              int num2 = scanner.nextInt();
+      
+              // your code goes here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/46944#comment
+status: Unchecked
+record: -1
+submission_language: java17
